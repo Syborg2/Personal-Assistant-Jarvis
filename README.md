@@ -53,6 +53,9 @@ A comprehensive voice-controlled AI assistant built in Python that can perform v
 
 ## 📦 Installation
 
+> [!IMPORTANT]
+> Must install Python **3.8.8** version before running this project.
+
 ### Clone the repository:
 ```bash
 git clone <repository-url>
